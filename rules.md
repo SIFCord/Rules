@@ -41,3 +41,35 @@ Please use the appropriate channels for discussion. Read the description of each
 #bot_channel is a channel to use bot commands to your heart's content (of course, within reason). Direct any disruptive bot messages, such as $scout or $en here.
 
 #game_corner is a for-fun game "hosted" by Inuzuka28 where people guess what cards will be released next, what event will be next, etc. The newest link is always the most recent!
+
+![Image](/moderators.png?raw=true)
+
+**/r/SchoolIdolFestival Moderators**
+
+@vritrareirei (/u/VritraReiRei)
+@yaycupcake (/u/yaycupcake)
+@grygrflzr (/u/GrygrFlzr)
+@tricksnyan (/u/Tricksnyan)
+@otakunopodcast (/u/otakunopodcast)
+@dollyl (/u/dollyl)
+@brilladia (/u/BrillaDia)
+@cursedblackcat (/u/CursedBlackCat)
+
+**/r/SIFTrades Moderators**
+
+@illusionaryrose (/u/IllusionaryRose)
+@inuzuka28 (/u/Inuzuka28)
+@juu-yon (/u/juu-yon)
+@biisalvatore  (/u/BiiSalvatore)
+@4razon (/u/4Razon)
+@fancymikey (/u/FancyMikey)
+@holsety142 (/u/Holsety142)
+@litandus (/u/Litandus)
+
+**Discord-Only Moderators**
+
+@caraxian (/u/Caraxian)
+@needyouhalp  (/u/needyouhalp)
+@ttlynotagastya (/u/ttlynotagastya)
+@kachx (/u/kachx)
+@smudgerox  (/u/Smudgerox)
