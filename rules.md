@@ -24,3 +24,20 @@ If you notice someone acting up and/or being inappropriate, please message a mod
 Please note that certain user actions are logged for moderation purposes.
 
 We hope you continue to enjoy Love Live! School Idol Festival.
+
+![Image](/the_channels.png?raw=true)
+
+Please use the appropriate channels for discussion. Read the description of each channel to find out what goes there and what doesn't.
+
+<#313694683152908288> is for SIF and SIF-related topics.
+<#313694683152908288> is for people who want to time their score match queue to try and meet each other, usually by using the $countdown command. Please do not use <#313694683152908288> to match up in score matches.
+<#313694683152908288> is for people who are interested in trading accounts. It is constantly being updated with the most recent trades.
+<#313694683152908288> is for Love Live discussion that doesn't pertain to SIF specifically, including anime discussion, and there will be spoilers.
+<#313694683152908288> is a place to discuss Aqours 2nd live: the Happy Party Train Tour. More details on dates, setlists, etc can be found inside.
+<#313694683152908288> and <#313694683152908288> are for things not related to Love Live, and are SPOILER FREE rooms. Use whichever you prefer, though please try to respect any currently ongoing conversations.
+<#313694683152908288> is for conversations pertaining to the ongoing voice channels. 
+<#313694683152908288> is for spoilers to various games, tv shows, movies, books, franchises, etc., which aren't Love Live.
+<#313694683152908288> is for art, fanfiction, etc that you, the creator, wish to share.
+<#313694683152908288> is a channel to use bot commands to your heart's content (of course, within reason). Direct any disruptive bot messages, such as $scout or $en here.
+
+<#313694683152908288> is a for-fun game "hosted" by <@105041925953867776> where people guess what cards will be released next, what event will be next, etc. The newest link is always the most recent!(edited)
