@@ -30,7 +30,7 @@ We hope you continue to enjoy Love Live! School Idol Festival.
 Please use the appropriate channels for discussion. Read the description of each channel to find out what goes there and what doesn't.
 
 #sif_chat is for SIF and SIF-related topics.
-#score_matching is for people who want to time their score match queue to try and meet each other, usually by using the $countdown command. Please do not use #sif_chat to match up in score matches.
+#score_matching is for people who want to time their score match queue to try and meet each other, usually by using the `$countdown` command. Please do not use #sif_chat to match up in score matches.
 #siftrades_community is for people who are interested in trading accounts. It is constantly being updated with the most recent trades.
 #love_live_chat is for Love Live discussion that doesn't pertain to SIF specifically, including anime discussion, and there will be spoilers.
 #happy_party_train_tour is a place to discuss Aqours 2nd live: the Happy Party Train Tour. More details on dates, setlists, etc can be found inside.
