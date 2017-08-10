@@ -1,4 +1,4 @@
-![Image](/the_rules.png?raw=true)
+![Image](/the_rules.png?raw=true&t={timestamp})
 
 Please take the time to read and understand these rules!
 
@@ -25,7 +25,7 @@ Please note that certain user actions are logged for moderation purposes.
 
 We hope you continue to enjoy Love Live! School Idol Festival.
 
-![Image](/the_channels.png?raw=true)
+![Image](/the_channels.png?raw=true&t={timestamp})
 
 Please use the appropriate channels for discussion. Read the description of each channel to find out what goes there and what doesn't.
 
@@ -42,7 +42,7 @@ Please use the appropriate channels for discussion. Read the description of each
 
 #game_corner is a for-fun game "hosted" by Inuzuka28 where people guess what cards will be released next, what event will be next, etc. The newest link is always the most recent!
 
-![Image](/moderators.png?raw=true)
+![Image](/moderators.png?raw=true&t={timestamp})
 
 **/r/SchoolIdolFestival Moderators**
 
