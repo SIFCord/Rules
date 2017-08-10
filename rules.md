@@ -11,7 +11,7 @@ Please take the time to read and understand these rules!
 
 **4. This is a public server. That means keep things SFW, do not post sexual or violent depictions of the girls**. Remember that there may be younger users in the server, and you can find and share those things elsewhere on the internet. This rule also extends to usernames, avatars and emoji, and we reserve the right to change nicknames and ban emoji if we feel they are too inappropriate for the server.
 
-**5. Don’t spam. This also goes for bots**. If it’s not relevant to the conversation, take it to <#313694608565731339>.
+**5. Don’t spam. This also goes for bots**. If it’s not relevant to the conversation, take it to #bot_channel.
 
 **6. Keep things legal. Please refrain from discussing illegal activities in this server**. This includes but is not limited to: selling/buying SIF accounts (or accounts on any other game), sharing download links to Love Live! (or other) albums/DVDs, and drug talk.
 
@@ -29,15 +29,15 @@ We hope you continue to enjoy Love Live! School Idol Festival.
 
 Please use the appropriate channels for discussion. Read the description of each channel to find out what goes there and what doesn't.
 
-<#313694683152908288> is for SIF and SIF-related topics.
-<#313694683152908288> is for people who want to time their score match queue to try and meet each other, usually by using the $countdown command. Please do not use <#313694683152908288> to match up in score matches.
-<#313694683152908288> is for people who are interested in trading accounts. It is constantly being updated with the most recent trades.
-<#313694683152908288> is for Love Live discussion that doesn't pertain to SIF specifically, including anime discussion, and there will be spoilers.
-<#313694683152908288> is a place to discuss Aqours 2nd live: the Happy Party Train Tour. More details on dates, setlists, etc can be found inside.
-<#313694683152908288> and <#313694683152908288> are for things not related to Love Live, and are SPOILER FREE rooms. Use whichever you prefer, though please try to respect any currently ongoing conversations.
-<#313694683152908288> is for conversations pertaining to the ongoing voice channels. 
-<#313694683152908288> is for spoilers to various games, tv shows, movies, books, franchises, etc., which aren't Love Live.
-<#313694683152908288> is for art, fanfiction, etc that you, the creator, wish to share.
-<#313694683152908288> is a channel to use bot commands to your heart's content (of course, within reason). Direct any disruptive bot messages, such as $scout or $en here.
+#sif_chat is for SIF and SIF-related topics.
+#score_matching is for people who want to time their score match queue to try and meet each other, usually by using the $countdown command. Please do not use #sif_chat to match up in score matches.
+#siftrades_community is for people who are interested in trading accounts. It is constantly being updated with the most recent trades.
+#love_live_chat is for Love Live discussion that doesn't pertain to SIF specifically, including anime discussion, and there will be spoilers.
+#happy_party_train_tour is a place to discuss Aqours 2nd live: the Happy Party Train Tour. More details on dates, setlists, etc can be found inside.
+#lounge_a and #lounge_b are for things not related to Love Live, and are SPOILER FREE rooms. Use whichever you prefer, though please try to respect any currently ongoing conversations.
+#voice_discussion is for conversations pertaining to the ongoing voice channels. 
+#off_topic_spoilers is for spoilers to various games, tv shows, movies, books, franchises, etc., which aren't Love Live.
+#creative_corner is for art, fanfiction, etc that you, the creator, wish to share.
+#bot_channel is a channel to use bot commands to your heart's content (of course, within reason). Direct any disruptive bot messages, such as $scout or $en here.
 
-<#313694683152908288> is a for-fun game "hosted" by <@105041925953867776> where people guess what cards will be released next, what event will be next, etc. The newest link is always the most recent!(edited)
+#game_corner is a for-fun game "hosted" by Inuzuka28 where people guess what cards will be released next, what event will be next, etc. The newest link is always the most recent!
