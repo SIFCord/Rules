@@ -1,5 +1,7 @@
 ![Image](/header1.png?raw=true)
 
+<:sealur:260120498141134848>
+
 Please take the time to read and understand these rules!
 
 **1. Be considerate of others**, there are actual people on the other side of the screen, so please no personal attacks, racial slurs, or derisive comments towards people's genders or sexualities.
