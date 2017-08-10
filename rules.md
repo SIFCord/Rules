@@ -40,7 +40,7 @@ Please use the appropriate channels for discussion. Read the description of each
 #creative_corner is for art, fanfiction, etc that you, the creator, wish to share.
 #bot_channel is a channel to use bot commands to your heart's content (of course, within reason). Direct any disruptive bot messages, such as $scout or $en here.
 
-#game_corner is a for-fun game "hosted" by Inuzuka28 where people guess what cards will be released next, what event will be next, etc. The newest link is always the most recent!
+#game_corner is a for-fun game "hosted" by @inuzuka28 where people guess what cards will be released next, what event will be next, etc. The newest link is always the most recent!
 
 ![Image](/moderators.png?raw=true&t={timestamp})
 
