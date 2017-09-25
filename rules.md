@@ -3,9 +3,11 @@
 Please use the appropriate channels for discussion. Read the description of each channel to find out what goes there and what doesn't.
 
 #sif_chat is for SIF and SIF-related topics.
-#score_matching is for people who want to time their score match queue to try and meet each other, usually by using the `$countdown` command. Please do not use #sif_chat to match up in score matches.
 #siftrades_community is for people who are interested in trading accounts. It is constantly being updated with the most recent trades.
 #love_live_chat is for Love Live discussion that doesn't pertain to SIF specifically, including anime discussion, and there will be spoilers.
+#teambuilding_meta is for minmaxing discussions.
+#beginners_questions is a place to ask SERIOUS questions. There are no stupid questions other than those that are not serious.
+#sif_all_stars is for discussion on the upcoming SIF All Stars Mobile Game.
 #happy_party_train_tour is a place to discuss Aqours 2nd live: the Happy Party Train Tour. More details on dates, setlists, etc can be found inside.
 #lounge_a and #lounge_b are for things not related to Love Live, and are SPOILER FREE rooms. Use whichever you prefer, though please try to respect any currently ongoing conversations.
 #voice_discussion is for conversations pertaining to the ongoing voice channels. 
@@ -13,7 +15,7 @@ Please use the appropriate channels for discussion. Read the description of each
 #creative_corner is for art, fanfiction, etc that you, the creator, wish to share.
 #bot_channel is a channel to use bot commands to your heart's content (of course, within reason). Direct any disruptive bot messages, such as $scout or $en here.
 
-#game_corner is a for-fun game "hosted" by @inuzuka28 where people guess what cards will be released next, what event will be next, etc. The newest link is always the most recent!
+#game_corner is a for-fun game "hosted" by @Inuzuka28 where people guess what cards will be released next, what event will be next, etc. The newest link is always the most recent!
 
 ![Image](/header3.png?raw=true)
 
