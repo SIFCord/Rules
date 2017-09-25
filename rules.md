@@ -35,7 +35,7 @@ Please use the appropriate channels for discussion. Read the description of each
 @illusionaryrose (/u/IllusionaryRose)
 @inuzuka28 (/u/Inuzuka28)
 @juu-yon (/u/juu-yon)
-@biisalvatore  (/u/BiiSalvatore)
+@biisalvatore (/u/BiiSalvatore)
 @4razon (/u/4Razon)
 @fancymikey (/u/FancyMikey)
 @holsety142 (/u/Holsety142)
@@ -44,10 +44,10 @@ Please use the appropriate channels for discussion. Read the description of each
 **Discord-Only Moderators**
 
 @caraxian (/u/Caraxian)
-@needyouhalp  (/u/needyouhalp)
+@needyouhalp (/u/needyouhalp)
 @ttlynotagastya (/u/ttlynotagastya)
 @kachx (/u/kachx)
-@smudgerox  (/u/Smudgerox)
+@smudgerox (/u/Smudgerox)
 
 ![Image](/header1.png?raw=true)
 
