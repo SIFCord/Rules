@@ -75,4 +75,8 @@ If you notice someone acting up and/or being inappropriate, please message a mod
 
 Please note that certain user actions are logged for moderation purposes.
 
+In addition, please note that discussion of any KLab errors that give an unintended advantage are against the Discord Terms of Service, and as such will be regulated.
+
+![Image](/tos-game-errors.png?raw=true)
+
 We hope you continue to enjoy Love Live! School Idol Festival.
