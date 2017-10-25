@@ -14,7 +14,7 @@ Please use the appropriate channels for discussion. Read the description of each
 #voice_discussion is for conversations pertaining to the ongoing voice channels. 
 #off_topic_spoilers is for spoilers to various games, tv shows, movies, books, franchises, etc., which aren't Love Live.
 #creative_corner is for art, fanfiction, etc that you, the creator, wish to share.
-#bot_channel is a channel to use bot commands to your heart's content (of course, within reason). Direct any disruptive bot messages, such as $scout or $en here.
+#bot_channel is a channel to use bot commands to your heart's content (of course, within reason). Direct any disruptive bot messages, such as `$scout` or `$en` here.
 
 ![Image](/header3.png?raw=true)
 
