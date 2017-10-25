@@ -7,7 +7,7 @@ Please use the appropriate channels for discussion. Read the description of each
 #love_live_chat is for Love Live discussion that doesn't pertain to SIF specifically, including anime discussion, and there will be spoilers.
 #llss_season2 is for discussion about Season 2 of Love Live! Sunshine (This channel will contain spoilers).
 #teambuilding_meta is for minmaxing discussions.
-#beginners_questions is a place to ask SERIOUS questions. There are no stupid questions other than those that are not serious.
+#beginner_questions is a place to ask SERIOUS questions. There are no stupid questions other than those that are not serious.
 #sif_all_stars is for discussion on the upcoming SIF All Stars Mobile Game.
 #happy_party_train_tour is a place to discuss Aqours 2nd live: the Happy Party Train Tour. More details on dates, setlists, etc can be found inside.
 #lounge_a and #lounge_b are for things not related to Love Live, and are SPOILER FREE rooms. Use whichever you prefer, though please try to respect any currently ongoing conversations.
