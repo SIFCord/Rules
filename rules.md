@@ -33,7 +33,6 @@ Please use the appropriate channels for discussion. Read the description of each
 
 @illusionaryrose (/u/IllusionaryRose)
 @inuzuka28 (/u/Inuzuka28)
-@juu-yon (/u/juu-yon)
 @biisalvatore (/u/BiiSalvatore)
 @4razon (/u/4Razon)
 @fancymikey (/u/FancyMikey)
