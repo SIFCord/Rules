@@ -44,6 +44,7 @@ Please use the appropriate channels for discussion. Read the description of each
 @caraxian (/u/Caraxian)
 @needyouhalp (/u/needyouhalp)
 @ttlynotagastya (/u/ttlynotagastya)
+@kachx (/u/kachx)
 @smudgerox (/u/Smudgerox)
 
 ![Image](/header1.png?raw=true)
