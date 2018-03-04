@@ -36,7 +36,6 @@ Please use the appropriate channels for discussion. Read the description of each
 @4razon (/u/4Razon)
 @fancymikey (/u/FancyMikey)
 @holsety142 (/u/Holsety142)
-@litandus (/u/Litandus)
 
 **Discord-Only Moderators**
 
