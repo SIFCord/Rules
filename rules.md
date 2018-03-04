@@ -5,7 +5,6 @@ Please use the appropriate channels for discussion. Read the description of each
 #sif_chat is for SIF and SIF-related topics.
 #siftrades_community is for people who are interested in trading accounts. It is constantly being updated with the most recent trades.
 #love_live_chat is for Love Live discussion that doesn't pertain to SIF specifically, including anime discussion, and there will be spoilers.
-#llss_season2 is for discussion about Season 2 of Love Live! Sunshine (This channel will contain spoilers).
 #teambuilding_meta is for minmaxing discussions.
 #beginner_questions is a place to ask SERIOUS questions. There are no stupid questions other than those that are not serious.
 #sif_all_stars is for discussion on the upcoming SIF All Stars Mobile Game.
