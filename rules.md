@@ -32,7 +32,6 @@ Please use the appropriate channels for discussion. Read the description of each
 @illusionaryrose (/u/IllusionaryRose)
 @inuzuka28 (/u/Inuzuka28)
 @biisalvatore (/u/BiiSalvatore)
-@4razon (/u/4Razon)
 @fancymikey (/u/FancyMikey)
 @holsety142 (/u/Holsety142)
 
