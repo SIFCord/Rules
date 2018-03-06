@@ -32,7 +32,6 @@ Please use the appropriate channels for discussion. Read the description of each
 @illusionaryrose (/u/IllusionaryRose)
 @inuzuka28 (/u/Inuzuka28)
 @biisalvatore (/u/BiiSalvatore)
-@fancymikey (/u/FancyMikey)
 @holsety142 (/u/Holsety142)
 
 **Discord-Only Moderators**
@@ -42,6 +41,7 @@ Please use the appropriate channels for discussion. Read the description of each
 @ttlynotagastya (/u/ttlynotagastya)
 @kachx (/u/kachx)
 @smudgerox (/u/Smudgerox)
+@fancymikey (/u/FancyMikey)
 
 ![Image](/header1.png?raw=true)
 
