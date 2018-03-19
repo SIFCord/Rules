@@ -36,7 +36,6 @@ Please use the appropriate channels for discussion. Read the description of each
 
 **Discord-Only Moderators**
 
-@caraxian (/u/Caraxian)
 @needyouhalp (/u/needyouhalp)
 @ttlynotagastya (/u/ttlynotagastya)
 @kachx (/u/kachx)
