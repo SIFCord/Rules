@@ -40,7 +40,6 @@ Please use the appropriate channels for discussion. Read the description of each
 @ttlynotagastya (/u/ttlynotagastya)
 @kachx (/u/kachx)
 @smudgerox (/u/Smudgerox)
-@fancymikey (/u/FancyMikey)
 
 ![Image](/header1.png?raw=true)
 
