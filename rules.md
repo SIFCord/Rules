@@ -33,6 +33,9 @@ Please use the appropriate channels for discussion. Read the description of each
 @inuzuka28 (/u/Inuzuka28)
 @biisalvatore (/u/BiiSalvatore)
 @holsety142 (/u/Holsety142)
+@❀ღmomofueeღ❀#0304 (/u/momofuee)
+@otakunopodcast (/u/otakunopodcast)
+@pyromanticpyrope#3889 (/u/pyromanticpyrope)
 
 **Discord-Only Moderators**
 
