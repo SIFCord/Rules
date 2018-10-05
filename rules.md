@@ -72,4 +72,6 @@ In addition, please note that discussion of any KLab errors that give an uninten
 
 ![Image](/tos-game-errors.png?raw=true)
 
+For new members, please note that you need to be in the server for several days before you are able to post images (and other related permissions).
+
 We hope you continue to enjoy Love Live! School Idol Festival.
