@@ -29,7 +29,6 @@ Please use the appropriate channels for discussion. Read the description of each
 
 **/r/SIFTrades Moderators**
 
-@illusionaryrose (/u/IllusionaryRose)
 @inuzuka28 (/u/Inuzuka28)
 @biisalvatore (/u/BiiSalvatore)
 @holsety142 (/u/Holsety142)
