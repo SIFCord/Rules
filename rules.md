@@ -61,6 +61,8 @@ Please take the time to read and understand these rules!
 
 **7. No discussion of politics**. Please take political discussion elsewhere.
 
+**8. Do not impersonate other users**.
+
 Breaking these rules may lead to a mute, kick, or ban depending on the severity of the action. Please keep in mind however, that everything is determined on a case-by-case basis, so severity of punishment may vary. 
 
 If you notice someone acting up and/or being inappropriate, please message a mod. It’s what we’re here for, and you’re not bothering us by doing it.
