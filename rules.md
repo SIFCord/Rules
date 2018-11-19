@@ -62,6 +62,10 @@ Please take the time to read and understand these rules!
 
 **8. Do not impersonate other users**.
 
+**9. Do not ask for other players to fund you for gacha rolls/event tiering/etc**.
+If you do not have the money to be able to recreationally spend on a mobile game, do not ask others for it. At the end of the day, gacha is gambling, and throwing money at the fact you didn't get what you wanted is what KLab wants you to do.
+**Do note that if you do decide to give money to another user here, that counts as an outside dispute and we unfortunately cannot help you.**
+
 Breaking these rules may lead to a mute, kick, or ban depending on the severity of the action. Please keep in mind however, that everything is determined on a case-by-case basis, so severity of punishment may vary. 
 
 If you notice someone acting up and/or being inappropriate, please message a mod. It’s what we’re here for, and you’re not bothering us by doing it.
