@@ -23,7 +23,6 @@ Please use the appropriate channels for discussion. Read the description of each
 @grygrflzr (/u/GrygrFlzr)
 @tricksnyan (/u/Tricksnyan)
 @otakunopodcast (/u/otakunopodcast)
-@dollyl (/u/dollyl)
 @brilladia (/u/BrillaDia)
 @cursedblackcat (/u/CursedBlackCat)
 
