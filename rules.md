@@ -21,7 +21,6 @@ Please use the appropriate channels for discussion. Read the description of each
 @vritrareirei (/u/VritraReiRei)
 @yaycupcake (/u/yaycupcake)
 @grygrflzr (/u/GrygrFlzr)
-@tricksnyan (/u/Tricksnyan)
 @otakunopodcast (/u/otakunopodcast)
 @brilladia (/u/BrillaDia)
 @cursedblackcat (/u/CursedBlackCat)
