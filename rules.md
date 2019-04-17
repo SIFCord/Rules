@@ -36,7 +36,6 @@ Please use the appropriate channels for discussion. Read the description of each
 **Discord-Only Moderators**
 
 @needyouhalp (/u/needyouhalp)
-@ttlynotagastya (/u/ttlynotagastya)
 @smudgerox (/u/Smudgerox)
 
 ![Image](/header1.png?raw=true)
